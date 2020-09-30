@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/first-app/static/css/main.f47ace20.chunk.css",
+    "main.js": "/first-app/static/js/main.b06fae5c.chunk.js",
+    "main.js.map": "/first-app/static/js/main.b06fae5c.chunk.js.map",
+    "runtime-main.js": "/first-app/static/js/runtime-main.284ef3e7.js",
+    "runtime-main.js.map": "/first-app/static/js/runtime-main.284ef3e7.js.map",
+    "static/css/2.e0686c58.chunk.css": "/first-app/static/css/2.e0686c58.chunk.css",
+    "static/js/2.886cd124.chunk.js": "/first-app/static/js/2.886cd124.chunk.js",
+    "static/js/2.886cd124.chunk.js.map": "/first-app/static/js/2.886cd124.chunk.js.map",
+    "index.html": "/first-app/index.html",
+    "precache-manifest.f65936128ed74db3649117863f91090c.js": "/first-app/precache-manifest.f65936128ed74db3649117863f91090c.js",
+    "service-worker.js": "/first-app/service-worker.js",
+    "static/css/2.e0686c58.chunk.css.map": "/first-app/static/css/2.e0686c58.chunk.css.map",
+    "static/css/main.f47ace20.chunk.css.map": "/first-app/static/css/main.f47ace20.chunk.css.map",
+    "static/js/2.886cd124.chunk.js.LICENSE.txt": "/first-app/static/js/2.886cd124.chunk.js.LICENSE.txt",
+    "static/media/GS_logo.svg": "/first-app/static/media/GS_logo.0662d9de.svg",
+    "static/media/HeroBlock.scss": "/first-app/static/media/Hero_bg.b236af76.jpg",
+    "static/media/ITN_logo.svg": "/first-app/static/media/ITN_logo.2f311a05.svg",
+    "static/media/energy.jpg": "/first-app/static/media/energy.1d9ae9e9.jpg",
+    "static/media/industry.jpg": "/first-app/static/media/industry.3d66b58c.jpg",
+    "static/media/power.jpg": "/first-app/static/media/power.17b056bd.jpg",
+    "static/media/shid_logo_1.svg": "/first-app/static/media/shid_logo_1.341a487c.svg",
+    "static/media/slide-1.jpg": "/first-app/static/media/slide-1.3e6d941c.jpg",
+    "static/media/slide-2.jpg": "/first-app/static/media/slide-2.2d01e323.jpg",
+    "static/media/slide-3.jpg": "/first-app/static/media/slide-3.2e8165b3.jpg",
+    "static/media/slide-4.jpg": "/first-app/static/media/slide-4.4bfc6137.jpg",
+    "static/media/slide-5.jpg": "/first-app/static/media/slide-5.b2936b7d.jpg",
+    "static/media/transport.jpg": "/first-app/static/media/transport.fb06d4dd.jpg",
+    "static/media/uaste-management.jpg": "/first-app/static/media/uaste-management.19cb6755.jpg",
+    "static/media/urban-planning.jpg": "/first-app/static/media/urban-planning.a3fe3aa1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.284ef3e7.js",
+    "static/css/2.e0686c58.chunk.css",
+    "static/js/2.886cd124.chunk.js",
+    "static/css/main.f47ace20.chunk.css",
+    "static/js/main.b06fae5c.chunk.js"
+  ]
+}
